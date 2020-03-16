@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bc7bfefdee55d84b9c691b6c1407aac, type: 3}
+  m_Name: LocalizationCollection
+  m_EditorClassIdentifier: 
+  languages:
+  - {fileID: 11400000, guid: 111c3aca575d11149abf44c1bb94b237, type: 2}
+  - {fileID: 11400000, guid: 6c1b44b02f0aa0d4781cb816b66941a0, type: 2}
+  - {fileID: 11400000, guid: a12882721bb256c4dbc3bd935eb7c247, type: 2}
+  - {fileID: 11400000, guid: 78d6428fe59f5de4b92d2c6eeda12485, type: 2}
+  - {fileID: 11400000, guid: 1a3f055ee64309a48a44823bd1beaed5, type: 2}
+  - {fileID: 11400000, guid: 51b68309baa4d7f499cec014f99c6612, type: 2}
+  - {fileID: 11400000, guid: 82bfb0d5082de12428b335fad5fce781, type: 2}
+  - {fileID: 11400000, guid: 701225543d04ad64f86acedf92263915, type: 2}
+  fallback: {fileID: 11400000, guid: 6c1b44b02f0aa0d4781cb816b66941a0, type: 2}
+  forcedLanguage: {fileID: 11400000, guid: 6c1b44b02f0aa0d4781cb816b66941a0, type: 2}
